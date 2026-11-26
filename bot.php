@@ -3,7 +3,7 @@
  * Lotus365 Auto Register Bot - Unlimited Firebase + Unlimited IDs + Custom Timed Keys + Key Delete
  */
 
-define('BOT_TOKEN', '9035886939:AAFkLPdh5JlBxLhsj_fK10bqarrFulxqmUE');
+define('BOT_TOKEN', '9113726778:AAHJ38CwA5Yj_7krsN__9z-T24cl0brdOUI);
 define('API_BASE', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
 define('WELCOME_IMAGE_URL', '');
 
